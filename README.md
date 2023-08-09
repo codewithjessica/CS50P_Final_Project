@@ -1,16 +1,16 @@
 # Canadian Sales Tax Calculator
 
 #### Description:
-Hi, My name is Jessica and this was my final project for the course, CS50P Introduction to Programming with Python.
+Hi, My name is Jessica and this is my final project for the course CS50P Introduction to Programming with Python.
 
-My final project is a calculator to show the tax in different provinces of Canada. It allows the users to know how much is the tax and either the original price or the price with tax included price based on their inputs.
+My final project is a calculator to show the tax in different provinces of Canada. It allows the users to know based on their inputs how much the tax is and either the original price or the price with tax included price.
 
 #### Files
 - `project.py` - The code of the Canadian Sales Tax Calculator
 
-- `test_project.py` - Contains all the test functions of project.py
+- `test_project.py` - Contains all the test functions for project.py
 
-- `Screenshots` - Contains all the screenshots of all layouts of the calculaor
+- `layouts` - Contains all the layouts of the calculaor
 
 - `requirements.txt` - Project dependencies.
 
